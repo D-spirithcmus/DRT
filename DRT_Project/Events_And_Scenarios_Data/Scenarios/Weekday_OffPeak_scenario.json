@@ -1,0 +1,42 @@
+{
+    "scenario_name": "Weekday_OffPeak",
+    "description": "Mô phỏng nhu cầu di chuyển trong giờ thấp điểm buổi trưa (13h-15h) ngày thường.",
+    "total_requests_to_generate": 400,
+    "request_generation_rules": {
+        "request_timestamp": {
+            "distribution": "uniform",
+            "start_time": "2025-10-27T13:00:00",
+            "end_time": "2025-10-27T15:00:00"
+        },
+        "origin": {
+            "method": "poi_weighted_sampling",
+            "poi_categories": [
+                "amenity",
+                "shop",
+                "healthcare",
+                "residential"
+            ]
+        },
+        "destination": {
+            "method": "poi_weighted_sampling",
+            "poi_categories": [
+                "amenity",
+                "shop",
+                "healthcare",
+                "residential"
+            ]
+        },
+        "trip_requirements": {
+            "distribution": "discrete",
+            "probabilities": {
+                "{\"wheelchair_accessible\": false}": 0.95,
+                "{\"wheelchair_accessible\": true}": 0.05
+            }
+        },
+        "max_ride_factor": {
+            "distribution": "normal",
+            "mean": 1.8,
+            "std_dev": 0.4
+        }
+    }
+}
