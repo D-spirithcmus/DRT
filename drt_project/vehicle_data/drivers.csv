@@ -1,0 +1,71 @@
+driver_id,name,license_number,break_rules
+DRV_001,Minh Văn Mai,59A-45644,after_4h_drive_30min_break
+DRV_002,Chi Hoàng,59A-96370,after_4h_drive_30min_break
+DRV_003,Trọng Xuân Phạm,59A-56670,after_4h_drive_30min_break
+DRV_004,Hải Lê,59A-78726,after_4h_drive_30min_break
+DRV_005,Hưng Lê,59A-68511,after_4h_drive_30min_break
+DRV_006,Anh Nam Vũ,59A-66299,after_4h_drive_30min_break
+DRV_007,Kim Phạm,59A-91662,after_4h_drive_30min_break
+DRV_008,Tùng Đặng,59A-55814,after_4h_drive_30min_break
+DRV_009,Bác Quang Vũ,59A-72081,after_4h_drive_30min_break
+DRV_010,Hà Mai Bùi,59A-20469,after_4h_drive_30min_break
+DRV_011,Cô Kim Hoàng,59A-96118,after_4h_drive_30min_break
+DRV_012,Anh Thế Mai,59A-25857,after_4h_drive_30min_break
+DRV_013,Quý ông Bảo Nguyễn,59A-35159,after_4h_drive_30min_break
+DRV_014,Chị Lan Bùi,59A-46969,after_4h_drive_30min_break
+DRV_015,Chị Phương Hoàng,59A-43157,after_4h_drive_30min_break
+DRV_016,Kim Lê,59A-73565,after_4h_drive_30min_break
+DRV_017,Hải Bùi,59A-59752,after_4h_drive_30min_break
+DRV_018,An Trí Trần,59A-69040,after_4h_drive_30min_break
+DRV_019,Châu Thế Vũ,59A-51308,after_4h_drive_30min_break
+DRV_020,Chị Ánh Đặng,59A-39351,after_4h_drive_30min_break
+DRV_021,Phúc Hoàng Mai,59A-37083,after_4h_drive_30min_break
+DRV_022,Bảo Hoàng Trần,59A-33782,after_4h_drive_30min_break
+DRV_023,Quý ông Bảo Vũ,59A-14393,after_4h_drive_30min_break
+DRV_024,Chị Hương Dương,59A-45653,after_4h_drive_30min_break
+DRV_025,Anh Hoàng Bùi,59A-66470,after_4h_drive_30min_break
+DRV_026,Lâm Quang Nguyễn,59A-55034,after_4h_drive_30min_break
+DRV_027,Quý cô Hạnh Mai,59A-86098,after_4h_drive_30min_break
+DRV_028,Kim Hoàng,59A-13066,after_4h_drive_30min_break
+DRV_029,Dương Bùi,59A-98249,after_4h_drive_30min_break
+DRV_030,Cô Ngọc Lê,59A-63416,after_4h_drive_30min_break
+DRV_031,Chị Hải Phạm,59A-58360,after_4h_drive_30min_break
+DRV_032,Lâm Đức Hoàng,59A-86464,after_4h_drive_30min_break
+DRV_033,Cô Hà Lê,59A-75019,after_4h_drive_30min_break
+DRV_034,Trọng Hoàng Dương,59A-71630,after_4h_drive_30min_break
+DRV_035,Hoàng Hữu Lê,59A-17431,after_4h_drive_30min_break
+DRV_036,Bác Quang Lê,59A-19174,after_4h_drive_30min_break
+DRV_037,Khoa Vũ,59A-11817,after_4h_drive_30min_break
+DRV_038,Hồng Trần,59A-19369,after_4h_drive_30min_break
+DRV_039,Xuân Vũ,59A-96164,after_4h_drive_30min_break
+DRV_040,Hoàng Bùi,59A-19547,after_4h_drive_30min_break
+DRV_041,Quý cô Hà Mai,59A-98486,after_4h_drive_30min_break
+DRV_042,Kim Dương,59A-31312,after_4h_drive_30min_break
+DRV_043,Lan Nguyễn,59A-30187,after_4h_drive_30min_break
+DRV_044,Thành Bảo Đặng,59A-99334,after_4h_drive_30min_break
+DRV_045,Vũ Thế Phạm,59A-96707,after_4h_drive_30min_break
+DRV_046,Nam Mai Bảo Đặng,59A-84324,after_4h_drive_30min_break
+DRV_047,Hoàng Dương,59A-77148,after_4h_drive_30min_break
+DRV_048,Bà Duyên Hoàng,59A-90734,after_4h_drive_30min_break
+DRV_049,Hưng Bảo Dương,59A-86341,after_4h_drive_30min_break
+DRV_050,Bà Hương Vũ,59A-18141,after_4h_drive_30min_break
+DRV_051,Dũng Hoàng Đặng,59A-88310,after_4h_drive_30min_break
+DRV_052,Anh Trí Nguyễn,59A-23219,after_4h_drive_30min_break
+DRV_053,Chị Duyên Đặng,59A-19525,after_4h_drive_30min_break
+DRV_054,Dương Hoàng,59A-65579,after_4h_drive_30min_break
+DRV_055,Cô Khoa Đặng,59A-28050,after_4h_drive_30min_break
+DRV_056,Lâm Hoàng,59A-44124,after_4h_drive_30min_break
+DRV_057,Quý cô Khoa Phạm,59A-97233,after_4h_drive_30min_break
+DRV_058,Cô Hồng Dương,59A-41121,after_4h_drive_30min_break
+DRV_059,Cô Yến Nguyễn,59A-39419,after_4h_drive_30min_break
+DRV_060,Lâm Hoàng,59A-97413,after_4h_drive_30min_break
+DRV_061,Chị An Hoàng,59A-69624,after_4h_drive_30min_break
+DRV_062,Dương Trần,59A-73217,after_4h_drive_30min_break
+DRV_063,Kim Hoàng Dương,59A-82386,after_4h_drive_30min_break
+DRV_064,Bảo Lê,59A-20210,after_4h_drive_30min_break
+DRV_065,Trung Vũ,59A-49988,after_4h_drive_30min_break
+DRV_066,Thành Phú Dương,59A-73764,after_4h_drive_30min_break
+DRV_067,Hà Hoàng Vũ,59A-33052,after_4h_drive_30min_break
+DRV_068,Nam Hoàng,59A-80697,after_4h_drive_30min_break
+DRV_069,Dũng Thế Lê,59A-57969,after_4h_drive_30min_break
+DRV_070,Bà Bảo Nguyễn,59A-80817,after_4h_drive_30min_break

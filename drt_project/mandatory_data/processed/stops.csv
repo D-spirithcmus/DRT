@@ -1,0 +1,156 @@
+stop_id,name,latitude,longitude,type,capacity,assoc_node_id
+0,Nhà Thờ Bình Hòa,10.8096755,106.6951544,bus_stop,2,935
+1,Phòng Cảnh sát Phòng cháy Chữa cháy Quận Bình Thạnh,10.8033408,106.6916712,bus_stop,2,532
+2,Bệnh viện Gia Định,10.8031098,106.6934358,bus_stop,2,140
+3,Nhà thờ Hàng Xanh,10.8031651,106.7080886,bus_stop,2,703
+4,Chợ Bà Chiểu,10.8031521,106.6993614,bus_stop,2,540
+5,Tòa án Nhân dân Quận Bình Thạnh,10.803862,106.7011965,bus_stop,2,142
+6,Chùa Bồ Đề,10.8034539,106.7040522,bus_stop,2,1092
+7,Chợ Bà Chiểu,10.8029565,106.6994287,bus_stop,2,540
+8,Nhà thờ Hàng Xanh,10.8030956,106.7067035,bus_stop,2,1090
+9,Đại học Hồng Bàng,10.7997324,106.7062401,bus_stop,2,753
+10,Nhà văn hóa Lao động,10.8159153,106.6979602,bus_stop,2,856
+11,Cầu Bông,10.7960004,106.6962557,bus_stop,2,692
+12,Bệnh viện Quận Bình Thạnh,10.7986201,106.6964219,bus_stop,2,697
+13,Lăng Ông Bà Chiểu,10.8009837,106.6965741,bus_stop,2,1344
+14,Bệnh viện Gia Định,10.8035837,106.6950028,bus_stop,2,1309
+15,Bệnh viện Ung bướu,10.8054414,106.695747,bus_stop,2,866
+16,Trường Tiểu học Nguyễn Đình Chiểu,10.8035722,106.6983624,bus_stop,2,88
+17,Tòa án Nhân dân Quận Bình Thạnh,10.8036395,106.7011521,bus_stop,2,142
+18,Chùa Bồ Đề,10.8033062,106.7039798,bus_stop,2,983
+19,Lăng Lê Văn Duyệt,10.8030815,106.706623,bus_stop,2,1090
+20,Uỷ ban Nhân dân Quận Bình Thạnh,10.8026975,106.6951454,bus_stop,2,61
+21,Hồ bơi Đại Đồng,10.8070488,106.6950287,bus_stop,2,865
+22,Ngã năm Bình Hòa,10.811933,106.6960758,bus_stop,2,141
+23,Chợ Phan Văn Trị,10.8124685,106.6952967,bus_stop,2,141
+24,Nhà sách Miền Đông,10.8155578,106.7074115,bus_stop,2,134
+25,Trạm điện Nguyễn Cửu Vân,10.796765,106.7031914,bus_stop,2,820
+26,Trạm điện Nguyễn Cửu Vân,10.797252,106.7045256,bus_stop,2,198
+27,Tân Cảng,10.7965163,106.71979,bus_stop,2,1340
+28,Hồ bơi Hải Quân,10.7891216,106.7107926,bus_stop,2,609
+29,Hồ bơi Hải Quân,10.7894937,106.7106287,bus_stop,2,490
+30,Chung cư Manor,10.793332,106.7184473,bus_stop,2,408
+31,Trạm Xe Bus Nơ Trang Long - Phan Văn Trị,10.8105115,106.695143,bus_stop,2,935
+32,Trường Đại học Giao thông Vận tải,10.8066342,106.7160731,bus_stop,2,240
+33,Chùa Bửu Liên,10.8107793,106.7137238,bus_stop,2,448
+34,Uỷ ban Nhân dân Quận Bình Thạnh,10.8028571,106.6956903,bus_stop,2,1170
+35,Lăng Ông Bà Chiểu,10.8024452,106.6971084,bus_stop,2,638
+36,Cầu Điện Biên Phủ,10.795104,106.7016883,bus_stop,2,191
+37,Lăng Ông Bà Chiểu,10.801771,106.6964093,bus_stop,2,1345
+38,Siêu thị Satra Food,10.8133085,106.6970527,bus_stop,2,914
+39,Bến xe buýt Văn Thánh,10.8013166,106.7175314,bus_stop,2,766
+40,Cổng vào Bến xe Miền Đông,10.8165864,106.7111727,bus_stop,2,214
+41,Ngã tư Nguyễn Xí,10.81255,106.7091672,bus_stop,2,801
+42,Ngã tư Chu Văn An,10.8097232,106.7090749,bus_stop,2,95
+43,Cầu Đinh Bộ Lĩnh,10.8068741,106.709341,bus_stop,2,557
+44,Trạm xăng dầu Đinh Bộ Lĩnh,10.804432,106.709386,bus_stop,2,596
+45,Chợ Hàng Xanh,10.8027818,106.7105476,bus_stop,2,979
+46,Trường Tiểu học Hồng Hà,10.7973383,106.71062,bus_stop,2,6
+47,Nhà thờ Thị Nghè,10.7937049,106.7081372,bus_stop,2,551
+48,Nhà thờ Thị Nghè,10.7934888,106.7082002,bus_stop,2,1186
+49,Trung tâm Dưỡng lão,10.7965675,106.7105532,bus_stop,2,1026
+50,Trường Trung học Phổ thông Gia Định,10.7989338,106.7111815,bus_stop,2,831
+51,Ngã ba Hàng Xanh,10.803245,106.7115312,bus_stop,2,67
+52,Đài Liệt sĩ,10.8087344,106.7119251,bus_stop,2,1329
+53,Co.opmart,10.8107732,106.712439,bus_stop,2,154
+54,Ngã ba Nguyễn Cửu Vân,10.7950076,106.709413,bus_stop,2,546
+55,Trường Trung học Phổ thông Gia Định,10.7997458,106.7110735,bus_stop,2,549
+56,Đại học HUTECH,10.8008422,106.7142581,bus_stop,2,1032
+57,Bến xe Thành Bưởi - Hàng Xanh,10.7985763,106.7184993,bus_stop,2,1078
+58,Nhà xe Thành Bưởi - Điện Biên Phủ,10.7985379,106.7184705,bus_stop,2,1078
+59,Đại học Hutech,10.8008851,106.7142713,bus_stop,2,1032
+60,Khu du lịch Văn Thánh,10.7995636,106.7174018,bus_stop,2,612
+61,Cầu Sài Gòn,10.7984179,106.7193338,bus_stop,2,216
+62,Công viên Văn Thánh,10.7960548,106.7155056,metro_station,5,402
+63,Tân Cảng,10.7985879,106.7232392,metro_station,5,294
+64,Khu du lịch Văn Thánh,10.800262,106.7172175,bus_stop,2,1190
+65,Công viên Cầu Sài Gòn,10.7989052,106.7227973,bus_stop,2,676
+66,Chợ Phường 25,10.8082939,106.7146663,bus_stop,2,592
+67,Cổng ra Bến xe Miền Đông 1,10.8137949,106.7128124,bus_stop,2,414
+68,Cầu Sài Gòn,10.7989394,106.719624,bus_stop,2,1333
+69,Đại học HUTECH,10.8012487,106.7148097,bus_stop,2,204
+70,Trạm xăng dầu Điện Biên Phủ,10.8016703,106.7128909,bus_stop,2,451
+71,Cổng ra - Bến xe Miền Đông 3,10.8116472,106.7125132,bus_stop,2,437
+72,Cổng ra - Bến xe Miền Đông 2,10.8123148,106.7125732,bus_stop,2,424
+73,Cầu Điện Biên Phủ,10.7951078,106.702508,bus_stop,2,264
+74,Bến xe Miền Đông,10.8149424,106.7107009,bus_stop,2,575
+75,Ngã năm Liệt sĩ,10.8120692,106.7105932,bus_stop,2,105
+76,Đại học Ngoại Thương,10.8048295,106.715886,bus_stop,2,109
+77,Hồ bơi Đại Đồng,10.8063743,106.6950933,bus_stop,2,865
+78,Chùa Hưng Gia Tự,10.8094005,106.6931074,bus_stop,2,253
+79,Bệnh viện Gia Định,10.803981,106.6949431,bus_stop,2,941
+80,Bệnh viện Bình Thạnh,10.7975784,106.6961525,bus_stop,2,1184
+81,Cầu Bông,10.7952195,106.6960194,bus_stop,2,890
+82,Cây xăng 178,10.806561,106.6969466,bus_stop,2,860
+83,Cây xăng 178,10.8069953,106.6965227,bus_stop,2,860
+84,Trường Tiểu học Nguyễn Đình Chiểu,10.803247,106.698343,bus_stop,2,88
+85,Saigon Pearl,10.7908025,106.717903,bus_stop,2,486
+86,Siêu thị Satra Food,10.8134505,106.6972692,bus_stop,2,914
+87,Nhà văn hóa Lao động,10.8156039,106.6979258,bus_stop,2,856
+88,Ngã năm Bình Hòa,10.8118786,106.6959329,bus_stop,2,141
+89,Cầu vượt Thủ Thiêm,10.7910262,106.7149161,bus_stop,2,363
+90,Trường Trung học Cơ sở Phú Mỹ,10.7926229,106.7122038,bus_stop,2,877
+91,Đại học Tôn Đức Thắng,10.7932772,106.7097592,bus_stop,2,1017
+92,Trường Khiếm thính Hy Vọng,10.7941716,106.709637,bus_stop,2,1016
+93,CoopMart Cầu Kinh,10.8122748,106.7153748,bus_stop,2,423
+94,CoopMart Cầu Kinh,10.8123579,106.7151731,bus_stop,2,461
+95,Chùa Bửu Liên,10.810846,106.7134767,bus_stop,2,437
+96,Ngã tư D2,10.8074106,106.7168432,bus_stop,2,1306
+97,Ngã ba Cảng Than,10.8054934,106.720868,bus_stop,2,1124
+98,Trường THPT Hồng Đức,10.8034089,106.7206453,bus_stop,2,22
+99,Chợ Văn Thánh,10.8013437,106.7187263,bus_stop,2,1192
+100,Trường Khiếm thính Hy Vọng,10.7948167,106.7097892,bus_stop,2,49
+101,Đại học Tôn Đức Thánh,10.7931279,106.7100381,bus_stop,2,1017
+102,Trường THCS Phú Mỹ,10.7925488,106.7121537,bus_stop,2,877
+103,Cầu vượt Thủ Thiêm,10.790905,106.714839,bus_stop,2,363
+104,Đại học Hồng Bàng,10.7999266,106.7075657,bus_stop,2,1004
+105,Vòng xoay Hàng Xanh,10.8009117,106.7099161,bus_stop,2,416
+106,Vòng xoay Hàng Xanh,10.8014918,106.709851,bus_stop,2,447
+107,Chợ Hàng Xanh,10.8029749,106.7104745,bus_stop,2,979
+108,Ngã tư Đinh Bộ Lĩnh,10.8137281,106.7092208,bus_stop,2,189
+109,Nhà sách Miền Đông,10.8158273,106.7073398,bus_stop,2,134
+110,Cầu Rạch Lăng,10.8162668,106.7006504,bus_stop,2,1315
+111,Học viện Cán bộ Thành phố,10.8125978,106.7010906,bus_stop,2,662
+112,Ngã tư Đinh Bộ Lĩnh,10.8136658,106.7091373,bus_stop,2,189
+113,Bệnh viện Ung Bướu,10.8058426,106.6969147,bus_stop,2,152
+114,Vinhomes Central Park - Tòa nhà Landmark 81,10.795827,106.7225902,bus_stop,2,623
+115,Đối diện Tòa nhà Park 3 VInhomes Central Park,10.7916164,106.7233192,bus_stop,2,849
+116,Hẻm 36 Nguyễn Gia Tri,10.8026872,106.7157936,bus_stop,2,37
+117,Đường Võ Oanh,10.8047304,106.715966,bus_stop,2,41
+118,Đại học Ngoại thương - Cơ sở 2,10.8064002,106.713867,bus_stop,2,446
+119,Trường Đại học Giao thông Vận tải TP.HCM,10.8040685,106.7171803,bus_stop,2,1155
+120,Chung cư Thế kỷ 21,10.8016108,106.7228432,bus_stop,2,84
+121,Công viên Cầu Sài Gòn,10.7990721,106.7222115,bus_stop,2,602
+122,Ga Văn Thánh,10.7974491,106.7174307,bus_stop,2,395
+123,113 Nguyễn Hữu Cảnh,10.795123,106.7180798,bus_stop,2,407
+124,Trần Văn Khê,10.7953967,106.7082888,bus_stop,2,646
+125,Nhà thờ Giáo xứ Mông Triệu,10.7963278,106.7059388,bus_stop,2,986
+126,Đường số 8,10.8108906,106.706254,bus_stop,2,353
+127,Học viện cán bộ TP.HCM - Cổng 6,10.8110266,106.7023217,bus_stop,2,83
+128,Chung cư 1050,10.8159023,106.700862,bus_stop,2,1316
+129,Học viện cán bộ TP.HCM - Cổng 2,10.8129722,106.7008542,bus_stop,2,663
+130,Học viện cán bộ TP.HCM - Cổng 6,10.8109977,106.7032511,bus_stop,2,8
+131,Đường số 8,10.810721,106.7068417,bus_stop,2,353
+132,Bến Xe Miền Đông (Bến Thanh),10.81487465,106.7114713702647,bus_stop,2,575
+133,Ga Tân Cảng,10.7985913,106.72324288717851,bus_stop,2,294
+134,,10.7985023,106.7231231,metro_station,5,599
+135,,10.7986787,106.7232922,metro_station,5,294
+136,Ga Công Viên Văn Thánh,10.7960663,106.71549336802686,bus_stop,2,402
+137,,10.7956398,106.7150576,metro_station,5,854
+138,,10.7957294,106.714989,metro_station,5,854
+139,Bến xe buýt Văn Thánh,10.80114865,106.71750521688747,bus_stop,2,766
+140,Virtual Stop 0,10.795948817708481,106.69448974442298,virtual_stop,2,522
+141,Virtual Stop 1,10.79399972450497,106.7120944902214,virtual_stop,2,877
+142,Virtual Stop 2,10.799011505487544,106.70667122251314,virtual_stop,2,998
+143,Virtual Stop 3,10.803642871157919,106.6984428975996,virtual_stop,2,131
+144,Virtual Stop 4,10.806480331887279,106.71371990675225,virtual_stop,2,446
+145,Virtual Stop 5,10.793015865866561,106.72167659885235,virtual_stop,2,845
+146,Virtual Stop 6,10.799548579047604,106.69940295244514,virtual_stop,2,872
+147,Virtual Stop 7,10.798663266666667,106.71853406666666,virtual_stop,2,1078
+148,Virtual Stop 8,10.810649031892032,106.70301140923839,virtual_stop,2,8
+149,Virtual Stop 9,10.789360299606088,106.71808370258532,virtual_stop,2,615
+150,Virtual Stop 10,10.790622187631874,106.71108175446513,virtual_stop,2,822
+151,Virtual Stop 11,10.793062404946633,106.70610381275739,virtual_stop,2,826
+152,Virtual Stop 12,10.803001929950069,106.69437792401203,virtual_stop,2,534
+153,Virtual Stop 13,10.792070667824731,106.71229553394394,virtual_stop,2,659
+154,Virtual Stop 14,10.816555528451257,106.7018055869848,virtual_stop,2,815

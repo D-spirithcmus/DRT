@@ -1,0 +1,40 @@
+{
+    "scenario_name": "Weekday_MorningPeak",
+    "description": "Mô phỏng nhu cầu di chuyển trong giờ cao điểm buổi sáng (7h-9h) ngày thường.",
+    "total_requests_to_generate": 1500,
+    "request_generation_rules": {
+        "request_timestamp": {
+            "distribution": "normal",
+            "mean": "2025-10-27T07:50:00",
+            "std_dev_minutes": 30,
+            "start_time": "2025-10-27T07:00:00",
+            "end_time": "2025-10-27T09:00:00"
+        },
+        "origin": {
+            "method": "poi_weighted_sampling",
+            "poi_categories": [
+                "residential"
+            ]
+        },
+        "destination": {
+            "method": "poi_weighted_sampling",
+            "poi_categories": [
+                "education",
+                "healthcare",
+                "public_transport"
+            ]
+        },
+        "trip_requirements": {
+            "distribution": "discrete",
+            "probabilities": {
+                "{\"wheelchair_accessible\": false}": 0.97,
+                "{\"wheelchair_accessible\": true}": 0.03
+            }
+        },
+        "max_ride_factor": {
+            "distribution": "normal",
+            "mean": 1.5,
+            "std_dev": 0.2
+        }
+    }
+}

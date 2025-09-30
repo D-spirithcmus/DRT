@@ -1,0 +1,6 @@
+event_id,event_type,timestamp,duration_mins,affected_edges,impact,status
+D_ROA_001,ROADWORK,2025-10-27 07:50:07,164,[1352],"{""closure"": false, ""speed_reduction_factor"": 0.5}",ACTIVE
+D_ROA_002,ROADWORK,2025-10-27 08:24:08,113,"[753, 1326, 2089, 1882]","{""closure"": false, ""speed_reduction_factor"": 0.5}",ACTIVE
+D_ROA_003,ROADWORK,2025-10-27 07:25:51,154,"[1987, 2078, 1563, 782]","{""closure"": false, ""speed_reduction_factor"": 0.5}",ACTIVE
+D_ROA_004,ROADWORK,2025-10-27 08:39:54,60,"[711, 221, 2993]","{""closure"": false, ""speed_reduction_factor"": 0.5}",ACTIVE
+D_ACC_005,ACCIDENT,2025-10-27 08:30:35,30,"[2357, 2722]","{""closure"": false, ""speed_reduction_factor"": 0.13}",ACTIVE
