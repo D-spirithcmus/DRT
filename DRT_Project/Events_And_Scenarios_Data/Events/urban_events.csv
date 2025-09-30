@@ -1,4 +1,0 @@
-event_id,event_name,event_type,assoc_poi_id,start_time,end_time,expected_attendance,status
-UE_1,Lễ hội Âm nhạc 'Sóng Trẻ',FESTIVAL,236,2025-11-22 18:00:00,2025-11-22 23:00:00,15000,SCHEDULED
-UE_2,Giải Thể thao Sinh viên TP.HCM Mở rộng,SPORTING_EVENT,285,2025-11-23 14:00:00,2025-11-23 17:00:00,5000,SCHEDULED
-UE_3,Ngày hội Việc làm Công nghệ 2025,CONFERENCE,285,2025-10-27 08:00:00,2025-10-27 17:00:00,8000,SCHEDULED
